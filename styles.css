@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+.jumbotron {
+  background: url(images/hero.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 10%;
+}
+
+body {
+  font-family: arimo;
+}
+
+
+.my-col{
+
+  padding: 2% 1rem 2% 1rem;
+}
+.card {
+  width: 100%;
+}
